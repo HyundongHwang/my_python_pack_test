@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from ... import *
+from common_import import *
 
 
 class Acb:

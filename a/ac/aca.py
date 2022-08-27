@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
-from ... import *
+
+from common_import import *
+
 
 class Aca:
     def __init__(self):

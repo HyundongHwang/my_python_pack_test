@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 
-from ... import *
+from common_import import *
+from a.aa import *
+
 
 class Aba:
     def __init__(self):
         now = maya.now()
+        prev = Aab()
         pass
 
 

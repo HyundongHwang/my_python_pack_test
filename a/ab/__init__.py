@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
-from aba import *
-from abb import *
+from a.ab.aba import *
+from a.ab.abb import *
